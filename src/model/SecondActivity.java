@@ -1,3 +1,5 @@
+package model;
+
 public abstract class SecondActivity {
     public String fname = "John";
     public int age = 24;

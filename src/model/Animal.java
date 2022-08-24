@@ -1,3 +1,5 @@
+package model;
+
 interface Animal {
     public void animalSound();
 
